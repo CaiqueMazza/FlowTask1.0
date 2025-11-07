@@ -7,7 +7,7 @@ Criação e manipulação de objetos em Java
 
 Uso de coleções (ArrayList) para armazenar dados
 
-Estrutura de menus interativos com Scanner
+Estrutura de menus interativos com JOtionPane
 
 Aplicação prática de encapsulamento e modularização
 
