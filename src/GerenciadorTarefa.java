@@ -13,7 +13,7 @@ public class GerenciadorTarefa {
     }
 
     public void listarTarefa(){
-        if (lista.isEmpty()) { JOptionPane.showMessageDialog(null,"Não a Tarefas cadastradas");
+        if (lista.isEmpty()) { JOptionPane.showMessageDialog(null,"Não a Tarefas cadastradas", "FlowTask", JOptionPane.ERROR_MESSAGE);
             return; }
 
         for (Tarefa t : lista){ t.exibir();}
